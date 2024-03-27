@@ -10,7 +10,7 @@ import Profile from '../screens/profile/Profile';
 
 const Stack = createNativeStackNavigator();
 
-const Navigation = () => {
+const NavigationBar = () => {
   return (
     <Stack.Navigator
       initialRouteName="Splash"
@@ -24,4 +24,4 @@ const Navigation = () => {
   );
 };
 
-export default Navigation;
+export default NavigationBar;
