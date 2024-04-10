@@ -1,0 +1,18 @@
+
+****************** React Native ****************
+
+Chapter_1: intro ✅
+Chapter_2: Expo vs Native ✅
+Chapter_3: first project (hello, world) ✅
+Chapter_4: Running app n device ✅
+Chapter_5: running on ios simulator ✅
+Chapter_6: running on android simulator ✅
+Chapter_7: core components (When we use react to create web user interface, 
+            often utilize HTML Tags such div, span, paragraph... For android and ios call 'View') ✅
+Chapter_8: View ✅
+Chapter_9: Text ✅
+Chapter_10: Image ✅
+Chapter_11: ScrollView ✅
+chapter_12: Button ✅
+Chapter_13: Pressable ✅
+Chapter_14: Modal 
